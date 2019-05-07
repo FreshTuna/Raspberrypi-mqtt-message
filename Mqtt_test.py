@@ -1,3 +1,4 @@
+##Test code for checking if mqtt connection is going well  
 import paho.mqtt.client as mqtt
 
 client = mqtt.Client()
